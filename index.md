@@ -1,11 +1,11 @@
 ---
 layout: splash
 header:
-  image: /assets/images/toothbrush-coupons.png  # Replace with your image path
+  image: /assets/images/toothbrush-coupons-original-wide.png  # Replace with your image path
 permalink: /
 ---
 
-<div style="text-align: center; margin-top: -30px;">
+<div style="text-align: center; margin-top: 30px;">
   <a href="{{ site.baseurl }}/assets/files/toothbrush-coupons.pdf" download style="
     display: inline-block;
     font-size: 32px; /* Make text bigger */
