@@ -1,9 +1,34 @@
----
+<!-- ---
 layout: splash
 header:
   image: /assets/images/toothbrush-coupons-original-wide.png  # Replace with your image path
 permalink: /
----
+--- -->
+
+<style>
+  .desktop-image {
+    display: block;
+  }
+  .mobile-image {
+    display: none;
+  }
+
+  @media screen and (max-width: 768px) { /* Adjust width as needed */
+    .desktop-image {
+      display: none;
+    }
+    .mobile-image {
+      display: block;
+    }
+  }
+</style>
+
+<!-- Desktop Image -->
+<img class="desktop-image" src="{{ site.baseurl }}/assets/images/toothbrush-coupons-original-wide.png" alt="Desktop Image">
+
+<!-- Mobile Image -->
+<img class="mobile-image" src="{{ site.baseurl }}/assets/images/toothbrush-coupons-original-large.png" alt="Mobile Image">
+
 
 <div style="text-align: center; margin-top: 30px;">
   <a href="{{ site.baseurl }}/assets/files/toothbrush-coupons.pdf" download style="
