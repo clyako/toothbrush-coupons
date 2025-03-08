@@ -23,5 +23,5 @@ permalink: /
 </div>
 
 <div style="text-align: center; font-size: 14px; color: gray; margin-top: 30px;">
-  <sup>*</sup> Only physical coupons will be accepted. Maximum of one coupon can be used per month. Front of coupon must be signed by approver to be valid, and must be signed on the day that it will take effect. Abuse of this system will not be tolerated and violators will be prosecuted.
+  <sup>*</sup> Only physical coupons will be accepted. Maximum of two coupons can be used per month. Front of coupon must be signed by approver to be valid, and must be signed on the day that it will take effect. Abuse of this system will not be tolerated and violators will be prosecuted.
 </div>
